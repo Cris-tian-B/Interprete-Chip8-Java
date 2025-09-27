@@ -2,7 +2,7 @@
 * Autor: Cris-tian-B
 * Fecha: 9/26/2025
 * Interprete Chip-8
-* V0.9.0
+* v0.9.0
 */
 package com.micompany.test;
 
