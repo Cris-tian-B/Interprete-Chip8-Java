@@ -1,0 +1,3 @@
+hs_err_pid*.log
+*.log
+java_error*.log
